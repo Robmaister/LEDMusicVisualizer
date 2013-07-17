@@ -1,0 +1,6 @@
+[submodule "libraries/HSB_Color"]
+	path = libraries/HSB_Color
+	url = https://github.com/julioterra/HSB_Color.git
+[submodule "libraries/LPD8806"]
+	path = libraries/LPD8806
+	url = https://github.com/adafruit/LPD8806.git
